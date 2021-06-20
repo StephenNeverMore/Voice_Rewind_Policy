@@ -1,8 +1,8 @@
 # Voice Rewind · Privacy Policy
 
 
-Introductions to the # # # #
-The Upside Down Challenge values users' privacy. When you use our services, we may collect and use your relevant information. We wish to use this Privacy Policy to explain to you how we collect, use, store and share such information when using our Services, as well as the ways in which we provide you with access, update, control and protect such information. This Privacy Policy is closely related to the Upside Down Challenge Services you use. You are encouraged to read this Privacy Policy carefully and, when necessary, follow the guidelines in this Privacy Policy to make the choice you think is appropriate. In this Privacy Policy, we try to be concise and to the point, and provide links to further explanations for your understanding.
+### Introductions
+When you use our services, we may collect and use your relevant information. We wish to use this Privacy Policy to explain to you how we collect, use, store and share such information when using our Services, as well as the ways in which we provide you with access, update, control and protect such information. This Privacy Policy is closely related to the Upside Down Challenge Services you use. You are encouraged to read this Privacy Policy carefully and, when necessary, follow the guidelines in this Privacy Policy to make the choice you think is appropriate. In this Privacy Policy, we try to be concise and to the point, and provide links to further explanations for your understanding.
 
 By using or continuing to use our services, you consent to our collection, use, storage and sharing of your information in accordance with this Privacy Policy.
 
